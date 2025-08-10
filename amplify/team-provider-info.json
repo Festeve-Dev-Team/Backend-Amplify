@@ -1,0 +1,99 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-festevebe-dev-baf81-authRole",
+      "UnauthRoleArn": "arn:aws:iam::500018074010:role/amplify-festevebe-dev-baf81-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::500018074010:role/amplify-festevebe-dev-baf81-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+      "UnauthRoleName": "amplify-festevebe-dev-baf81-unauthRole",
+      "StackName": "amplify-festevebe-dev-baf81",
+      "StackId": "arn:aws:cloudformation:ap-south-1:500018074010:stack/amplify-festevebe-dev-baf81/5ef066c0-751d-11f0-8727-0a4ab1d56909",
+      "AmplifyAppId": "d1s5dd5ori0mh6"
+    },
+    "categories": {
+      "function": {
+        "authFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/authFn-446c6369684c4e564c55-build.zip"
+        },
+        "usersFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/usersFn-7470615a646d53307848-build.zip"
+        },
+        "referralFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/referralFn-4953304769304a76582b-build.zip"
+        },
+        "walletFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/walletFn-6338532f4b53454a7358-build.zip"
+        },
+        "productsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/productsFn-67364b77416e6c6e7162-build.zip"
+        },
+        "vendorsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/vendorsFn-3144336248666c6f774f-build.zip"
+        },
+        "categoriesFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/categoriesFn-4777654c414f58634473-build.zip"
+        },
+        "cartFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/cartFn-6e314e3369337a5a4979-build.zip"
+        },
+        "ordersFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/ordersFn-7039504e7653666c5338-build.zip"
+        },
+        "bookingsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/bookingsFn-716a6d3478474f795564-build.zip"
+        },
+        "purohitsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/purohitsFn-544f7650736d6f533643-build.zip"
+        },
+        "eventsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/eventsFn-5266374e79326b464c66-build.zip"
+        },
+        "deliverySlotFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/deliverySlotFn-43594e347a70795a5238-build.zip"
+        },
+        "paymentRecordsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/paymentRecordsFn-71747363444665326b61-build.zip"
+        },
+        "offersFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/offersFn-6d4d446f734b3272634a-build.zip"
+        },
+        "uploadFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/uploadFn-70423534796667484672-build.zip"
+        },
+        "bannersFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/bannersFn-572b757846426c34556f-build.zip"
+        },
+        "newsletterFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/newsletterFn-4f455a4b714745493766-build.zip"
+        },
+        "testimonialsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/testimonialsFn-416c78383761437a3371-build.zip"
+        },
+        "adminSettingsFn": {
+          "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
+          "s3Key": "amplify-builds/adminSettingsFn-57446e5463797766514d-build.zip"
+        }
+      }
+    }
+  }
+}

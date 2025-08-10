@@ -1,0 +1,426 @@
+{
+  "function": {
+    "adminSettingsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "authFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "bannersFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "bookingsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "cartFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "categoriesFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "deliverySlotFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "eventsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "newsletterFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "offersFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "ordersFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "paymentRecordsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "productsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "purohitsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "referralFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "testimonialsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "uploadFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "usersFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "vendorsFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "walletFn": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_adminSettingsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    }
+  }
+}
