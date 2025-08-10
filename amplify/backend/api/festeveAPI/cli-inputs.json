@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "paths": {
+    "/adminSettings": {
+      "name": "/adminSettings",
+      "lambdaFunction": "adminSettingsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/auth": {
+      "name": "/auth",
+      "lambdaFunction": "authFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/banners": {
+      "name": "/banners",
+      "lambdaFunction": "bannersFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/bookings": {
+      "name": "/bookings",
+      "lambdaFunction": "bookingsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/carts": {
+      "name": "/carts",
+      "lambdaFunction": "cartFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/categories": {
+      "name": "/categories",
+      "lambdaFunction": "categoriesFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/deliverySlots": {
+      "name": "/deliverySlots",
+      "lambdaFunction": "deliverySlotFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/events": {
+      "name": "/events",
+      "lambdaFunction": "eventsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/newsletters": {
+      "name": "/newsletters",
+      "lambdaFunction": "newsletterFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/offers": {
+      "name": "/offers",
+      "lambdaFunction": "offersFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/orders": {
+      "name": "/orders",
+      "lambdaFunction": "ordersFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/paymentRecords": {
+      "name": "/paymentRecords",
+      "lambdaFunction": "paymentRecordsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/products": {
+      "name": "/products",
+      "lambdaFunction": "productsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/purohits": {
+      "name": "/purohits",
+      "lambdaFunction": "purohitsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/referrals": {
+      "name": "/referrals",
+      "lambdaFunction": "referralFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/testimonials": {
+      "name": "/testimonials",
+      "lambdaFunction": "testimonialsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/uploads": {
+      "name": "/uploads",
+      "lambdaFunction": "uploadFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/users": {
+      "name": "/users",
+      "lambdaFunction": "usersFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/vendors": {
+      "name": "/vendors",
+      "lambdaFunction": "vendorsFn",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/wallets": {
+      "name": "/wallets",
+      "lambdaFunction": "walletFn",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

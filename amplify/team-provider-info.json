@@ -272,6 +272,9 @@
           "requestTimeoutMs": "8000",
           "retryCount": "3"
         }
+      },
+      "api": {
+        "festeveAPI": {}
       }
     }
   }
