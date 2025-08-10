@@ -1,3 +1,43 @@
-{
-  "lambdaLayers": []
+﻿{
+    "lambdaLayers":  [
+
+                     ],
+    "environmentVariableList":  [
+                                    {
+                                        "environmentVariableName":  "NODE_ENV",
+                                        "cloudFormationParameterName":  "nodeEnv"
+                                    },
+                                    {
+                                        "environmentVariableName":  "LOG_LEVEL",
+                                        "cloudFormationParameterName":  "logLevel"
+                                    },
+                                    {
+                                        "environmentVariableName":  "MONGODB_URI",
+                                        "cloudFormationParameterName":  "mongodbUri"
+                                    },
+                                    {
+                                        "environmentVariableName":  "DB_NAME",
+                                        "cloudFormationParameterName":  "dbName"
+                                    },
+                                    {
+                                        "environmentVariableName":  "JWT_SECRET",
+                                        "cloudFormationParameterName":  "jwtSecret"
+                                    },
+                                    {
+                                        "environmentVariableName":  "JWT_EXPIRES_IN",
+                                        "cloudFormationParameterName":  "jwtExpiresIn"
+                                    },
+                                    {
+                                        "environmentVariableName":  "ALLOWED_ORIGINS",
+                                        "cloudFormationParameterName":  "allowedOrigins"
+                                    },
+                                    {
+                                        "environmentVariableName":  "REQUEST_TIMEOUT_MS",
+                                        "cloudFormationParameterName":  "requestTimeoutMs"
+                                    },
+                                    {
+                                        "environmentVariableName":  "RETRY_COUNT",
+                                        "cloudFormationParameterName":  "retryCount"
+                                    }
+                                ]
 }

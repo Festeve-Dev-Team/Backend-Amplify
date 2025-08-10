@@ -102,7 +102,79 @@
     }
   },
   "parameters": {
+    "AMPLIFY_function_adminSettingsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_adminSettingsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "adminSettingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_adminSettingsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -118,7 +190,71 @@
         }
       ]
     },
+    "AMPLIFY_function_authFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
     "AMPLIFY_function_authFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "authFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_authFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -134,7 +270,79 @@
         }
       ]
     },
+    "AMPLIFY_function_bannersFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
     "AMPLIFY_function_bannersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bannersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bannersFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -150,7 +358,79 @@
         }
       ]
     },
+    "AMPLIFY_function_bookingsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_bookingsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "bookingsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_bookingsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -166,7 +446,79 @@
         }
       ]
     },
+    "AMPLIFY_function_cartFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
     "AMPLIFY_function_cartFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "cartFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_cartFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -182,7 +534,79 @@
         }
       ]
     },
+    "AMPLIFY_function_categoriesFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
     "AMPLIFY_function_categoriesFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "categoriesFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_categoriesFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -198,7 +622,79 @@
         }
       ]
     },
+    "AMPLIFY_function_deliverySlotFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
     "AMPLIFY_function_deliverySlotFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "deliverySlotFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_deliverySlotFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -214,7 +710,79 @@
         }
       ]
     },
+    "AMPLIFY_function_eventsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_eventsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "eventsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_eventsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -230,7 +798,79 @@
         }
       ]
     },
+    "AMPLIFY_function_newsletterFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
     "AMPLIFY_function_newsletterFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "newsletterFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_newsletterFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -246,7 +886,79 @@
         }
       ]
     },
+    "AMPLIFY_function_offersFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
     "AMPLIFY_function_offersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "offersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_offersFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -262,7 +974,79 @@
         }
       ]
     },
+    "AMPLIFY_function_ordersFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
     "AMPLIFY_function_ordersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ordersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_ordersFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -278,7 +1062,79 @@
         }
       ]
     },
+    "AMPLIFY_function_paymentRecordsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_paymentRecordsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "paymentRecordsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_paymentRecordsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -294,7 +1150,79 @@
         }
       ]
     },
+    "AMPLIFY_function_productsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_productsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "productsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_productsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -310,7 +1238,79 @@
         }
       ]
     },
+    "AMPLIFY_function_purohitsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_purohitsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "purohitsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_purohitsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -326,7 +1326,79 @@
         }
       ]
     },
+    "AMPLIFY_function_referralFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
     "AMPLIFY_function_referralFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "referralFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_referralFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -342,7 +1414,79 @@
         }
       ]
     },
+    "AMPLIFY_function_testimonialsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_testimonialsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "testimonialsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_testimonialsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -358,7 +1502,79 @@
         }
       ]
     },
+    "AMPLIFY_function_uploadFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
     "AMPLIFY_function_uploadFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "uploadFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_uploadFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -374,7 +1590,79 @@
         }
       ]
     },
+    "AMPLIFY_function_usersFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
     "AMPLIFY_function_usersFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "usersFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_usersFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -390,7 +1678,79 @@
         }
       ]
     },
+    "AMPLIFY_function_vendorsFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
     "AMPLIFY_function_vendorsFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "vendorsFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_vendorsFn_retryCount": {
       "usedBy": [
         {
           "category": "function",
@@ -406,7 +1766,79 @@
         }
       ]
     },
+    "AMPLIFY_function_walletFn_allowedOrigins": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_dbName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
     "AMPLIFY_function_walletFn_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_jwtExpiresIn": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_jwtSecret": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_logLevel": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_mongodbUri": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_nodeEnv": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_requestTimeoutMs": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "walletFn"
+        }
+      ]
+    },
+    "AMPLIFY_function_walletFn_retryCount": {
       "usedBy": [
         {
           "category": "function",

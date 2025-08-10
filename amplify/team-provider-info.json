@@ -15,83 +15,262 @@
       "function": {
         "authFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/authFn-446c6369684c4e564c55-build.zip"
+          "s3Key": "amplify-builds/authFn-446c6369684c4e564c55-build.zip",
+          "nodeEnv": "development",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "usersFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/usersFn-7470615a646d53307848-build.zip"
+          "s3Key": "amplify-builds/usersFn-7470615a646d53307848-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "referralFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/referralFn-4953304769304a76582b-build.zip"
+          "s3Key": "amplify-builds/referralFn-4953304769304a76582b-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "walletFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/walletFn-6338532f4b53454a7358-build.zip"
+          "s3Key": "amplify-builds/walletFn-6338532f4b53454a7358-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "productsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/productsFn-67364b77416e6c6e7162-build.zip"
+          "s3Key": "amplify-builds/productsFn-67364b77416e6c6e7162-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "vendorsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/vendorsFn-3144336248666c6f774f-build.zip"
+          "s3Key": "amplify-builds/vendorsFn-3144336248666c6f774f-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "categoriesFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/categoriesFn-4777654c414f58634473-build.zip"
+          "s3Key": "amplify-builds/categoriesFn-4777654c414f58634473-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "cartFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/cartFn-6e314e3369337a5a4979-build.zip"
+          "s3Key": "amplify-builds/cartFn-6e314e3369337a5a4979-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "ordersFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/ordersFn-7039504e7653666c5338-build.zip"
+          "s3Key": "amplify-builds/ordersFn-7039504e7653666c5338-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "bookingsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/bookingsFn-716a6d3478474f795564-build.zip"
+          "s3Key": "amplify-builds/bookingsFn-716a6d3478474f795564-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "purohitsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/purohitsFn-544f7650736d6f533643-build.zip"
+          "s3Key": "amplify-builds/purohitsFn-544f7650736d6f533643-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "eventsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/eventsFn-5266374e79326b464c66-build.zip"
+          "s3Key": "amplify-builds/eventsFn-5266374e79326b464c66-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "deliverySlotFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/deliverySlotFn-43594e347a70795a5238-build.zip"
+          "s3Key": "amplify-builds/deliverySlotFn-43594e347a70795a5238-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "paymentRecordsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/paymentRecordsFn-71747363444665326b61-build.zip"
+          "s3Key": "amplify-builds/paymentRecordsFn-71747363444665326b61-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "offersFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/offersFn-6d4d446f734b3272634a-build.zip"
+          "s3Key": "amplify-builds/offersFn-6d4d446f734b3272634a-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "uploadFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/uploadFn-70423534796667484672-build.zip"
+          "s3Key": "amplify-builds/uploadFn-70423534796667484672-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "bannersFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/bannersFn-572b757846426c34556f-build.zip"
+          "s3Key": "amplify-builds/bannersFn-572b757846426c34556f-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "newsletterFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/newsletterFn-4f455a4b714745493766-build.zip"
+          "s3Key": "amplify-builds/newsletterFn-4f455a4b714745493766-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "testimonialsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/testimonialsFn-416c78383761437a3371-build.zip"
+          "s3Key": "amplify-builds/testimonialsFn-416c78383761437a3371-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         },
         "adminSettingsFn": {
           "deploymentBucketName": "amplify-festevebe-dev-baf81-deployment",
-          "s3Key": "amplify-builds/adminSettingsFn-57446e5463797766514d-build.zip"
+          "s3Key": "amplify-builds/adminSettingsFn-57446e5463797766514d-build.zip",
+          "nodeEnv": "production",
+          "logLevel": "info",
+          "mongodbUri": "mongodb://localhost:27017/festeve",
+          "dbName": "festeve",
+          "jwtSecret": "your-super-secret-jwt-key-minimum-32-characters",
+          "jwtExpiresIn": "24h",
+          "allowedOrigins": "https://app.festeve.com,https://admin.festeve.com",
+          "requestTimeoutMs": "8000",
+          "retryCount": "3"
         }
       }
     }

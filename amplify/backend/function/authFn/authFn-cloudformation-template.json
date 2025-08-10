@@ -15,6 +15,30 @@
     },
     "s3Key": {
       "Type": "String"
+    },
+    "nodeEnv": {
+      "Type": "String"
+    },
+    "logLevel": {
+      "Type": "String"
+    },
+    "mongodbUri": {
+      "Type": "String"
+    },
+    "dbName": {
+      "Type": "String"
+    },
+    "jwtSecret": {
+      "Type": "String"
+    },
+    "jwtExpiresIn": {
+      "Type": "String"
+    },
+    "requestTimeoutMs": {
+      "Type": "String"
+    },
+    "retryCount": {
+      "Type": "String"
     }
   },
   "Conditions": {
@@ -69,6 +93,30 @@
             },
             "REGION": {
               "Ref": "AWS::Region"
+            },
+            "NODE_ENV": {
+              "Ref": "nodeEnv"
+            },
+            "LOG_LEVEL": {
+              "Ref": "logLevel"
+            },
+            "MONGODB_URI": {
+              "Ref": "mongodbUri"
+            },
+            "DB_NAME": {
+              "Ref": "dbName"
+            },
+            "JWT_SECRET": {
+              "Ref": "jwtSecret"
+            },
+            "JWT_EXPIRES_IN": {
+              "Ref": "jwtExpiresIn"
+            },
+            "REQUEST_TIMEOUT_MS": {
+              "Ref": "requestTimeoutMs"
+            },
+            "RETRY_COUNT": {
+              "Ref": "retryCount"
             }
           }
         },
